@@ -8,7 +8,7 @@ npm install
 
 ### 3. create in express server 
 
-## 4. connect to database
+## 4. connect to database and then -
 ```
 1. add student functionality
         -->> in postman use -- http://localhost:8080/api/student POST method add data in body part 
